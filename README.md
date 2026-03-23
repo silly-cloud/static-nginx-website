@@ -25,5 +25,4 @@ This script helps complete the **Static Site Server** beginner project:
 - Strict mode (`set -euo pipefail`) for safer execution
 - Designed to run from **WSL** (Windows → WSL → remote server) or any Linux/macOS
 
-## Project
-https://roadmap.sh/projects/static-site-server
+
